@@ -8,6 +8,8 @@ public class Main {
         List<Integer> test = Arrays.asList(5,2,2,3,3,1,5);
 
         System.out.println(LonelyInteger.lonelynteger(test));
+        System.out.println(LonelyInteger.lonelynteger(test));
+
 
 
     }
