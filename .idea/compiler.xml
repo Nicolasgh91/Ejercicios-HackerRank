@@ -8,7 +8,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="Challenge-One" />
         <module name="Third-Challenge" />
+        <module name="Fourth-Challenge" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Third-Challenge" target="18" />
+    </bytecodeTargetLevel>
   </component>
 </project>
